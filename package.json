@@ -1,0 +1,14 @@
+{
+  "name": "cookies-server",
+  "version": "1.0.0",
+  "description": "Server for Sweet Expressions - CSCE 242",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Ethan Goldstein",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
